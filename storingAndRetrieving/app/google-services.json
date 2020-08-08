@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832431016067",
+    "firebase_url": "https://storingandretrieving.firebaseio.com",
+    "project_id": "storingandretrieving",
+    "storage_bucket": "storingandretrieving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832431016067:android:12070b7620400face773b6",
+        "android_client_info": {
+          "package_name": "com.example.storingandretrieving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832431016067-5kkf5g9ogd388o5vmvlfo5lgb77p1kvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storingandretrieving",
+            "certificate_hash": "e1c8a40a229ad0aded615ef6ac1f6a704f61dd69"
+          }
+        },
+        {
+          "client_id": "832431016067-i8eafcc7p9cdt72mfda1qjh9cuscrf9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFm8nl5X3rHYrsC11yfgh6qyZTVxwuDYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832431016067-i8eafcc7p9cdt72mfda1qjh9cuscrf9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

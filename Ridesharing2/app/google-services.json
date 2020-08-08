@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319705775238",
+    "firebase_url": "https://ridesharing-11813.firebaseio.com",
+    "project_id": "ridesharing-11813",
+    "storage_bucket": "ridesharing-11813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319705775238:android:4ca1e76f43310b21a76507",
+        "android_client_info": {
+          "package_name": "com.example.ridesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319705775238-0cugphk2smjpjh2jvalb6eti0c3tv3v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridesharing",
+            "certificate_hash": "e1c8a40a229ad0aded615ef6ac1f6a704f61dd69"
+          }
+        },
+        {
+          "client_id": "319705775238-uu92494kh1s7nh9e3b2kq9nlmoea48ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFZMWU4ROI2HQvduWbK2YkeU4dNADsZp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319705775238-uu92494kh1s7nh9e3b2kq9nlmoea48ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186314926876",
+    "firebase_url": "https://topicdiscussion-8ab76.firebaseio.com",
+    "project_id": "topicdiscussion-8ab76",
+    "storage_bucket": "topicdiscussion-8ab76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186314926876:android:2529aec04adb45e92b28d9",
+        "android_client_info": {
+          "package_name": "com.example.topicdiscussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186314926876-k9n4nmf9uikjn89q1feh4b8k4jjll66q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.topicdiscussion",
+            "certificate_hash": "e1c8a40a229ad0aded615ef6ac1f6a704f61dd69"
+          }
+        },
+        {
+          "client_id": "186314926876-tujrk3qdcc3ccv0rkek8p90snblu88pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2H3_XpCdEmVZdURglG5oBYKsz5ZgWBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186314926876-tujrk3qdcc3ccv0rkek8p90snblu88pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

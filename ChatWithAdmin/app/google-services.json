@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366653344517",
+    "firebase_url": "https://chatwithadmin-e7f23.firebaseio.com",
+    "project_id": "chatwithadmin-e7f23",
+    "storage_bucket": "chatwithadmin-e7f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366653344517:android:9f3df69c169d2c6e2ac56c",
+        "android_client_info": {
+          "package_name": "com.example.chatwithadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366653344517-c932fghuimsp9bqac60ti7gtdahekr6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatwithadmin",
+            "certificate_hash": "e1c8a40a229ad0aded615ef6ac1f6a704f61dd69"
+          }
+        },
+        {
+          "client_id": "366653344517-r4q6er4oqvqao5s2pq80s73d3fesi7gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs41VQZpLVuBD4KmPPB8ZBXneAVMhyTW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366653344517-r4q6er4oqvqao5s2pq80s73d3fesi7gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
